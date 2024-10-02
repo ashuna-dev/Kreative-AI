@@ -4,7 +4,7 @@
 KreativeAI is an advanced AI solution designed to streamline the creation of visually appealing promotional banners . By using cutting-edge AI models like **LayoutDETR**, KreativeAI allows users to generate high-quality content effortlessly, just by uploading product images and promotional text.
 
 ## Flowchart 
-![Shopping Process Flow Graph (1)](./static/Shopping%20Process%20Flow%20Graph.png)
+![Shopping Process Flow Graph (1)](./Static/Shopping%20Process%20Flow%20Graph.png)
 
 
 ## ✨ Key Features
