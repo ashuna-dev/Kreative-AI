@@ -24,5 +24,5 @@ KreativeAI is an advanced AI solution designed to streamline the creation of vis
 
 ## 🌐 Live Demo
 
-Experience KreativeAI in action: [KreativeAI Demo](https://kreativeai.pagekite.me/) 🚀
+Experience KreativeAI in action: [KreativeAI Demo](https://devfolio.co/projects/kreative-ai-70c8) 🚀
 
